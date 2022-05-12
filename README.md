@@ -1,4 +1,15 @@
-Welcome to your new dbt project!
+Welcome to your new dbt databricks project!
+
+
+
+Follow the following link to install "dbt-databricks" adapter and configure your first profile:
+
+https://pypi.org/project/dbt-databricks/
+
+Follow the following page for more details about running dbt models on Databricks:
+https://docs.databricks.com/integrations/prep/dbt.html
+
+This repository uses the code snippets from the above page.
 
 ### Using the starter project
 
